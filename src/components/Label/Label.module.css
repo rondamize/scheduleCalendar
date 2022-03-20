@@ -1,0 +1,44 @@
+.label0 {
+    display: inline-block;
+    border-radius: 35px;
+    background-color: #76baff;
+    padding: 2px 15px;
+    height: 20px;
+    overflow: hidden;
+    font-size: 12px;
+    width: 128px;
+}
+
+.label0:hover {
+    height: auto;
+}
+
+.label1 {
+    display: inline-block;
+    border-radius: 35px;
+    background-color: aquamarine;
+    padding: 2px 15px;
+    height: 20px;
+    overflow: hidden;
+    font-size: 12px;
+    width: 128px;
+}
+
+.label1:hover {
+    height: auto;
+}
+
+.label2 {
+    display: inline-block;
+    border-radius: 35px;
+    background-color: indianred;
+    padding: 2px 15px;
+    height: 20px;
+    overflow: hidden;
+    font-size: 12px;
+    width: 128px;
+}
+
+.label2:hover {
+    height: auto;
+}
